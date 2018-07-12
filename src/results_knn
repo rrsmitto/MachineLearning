@@ -1,5 +1,5 @@
-Train Set = 10000
-Test Set = 10000
+%Train Set = 10000
+%Test Set = 10000
 
 >> run_knn
 
@@ -42,8 +42,8 @@ knn_mda_error =
 
     0.4852
 
-Train Set = 20000
-Test Set = 10000
+%Train Set = 20000
+%Test Set = 10000
 
 >> run_knn
 
