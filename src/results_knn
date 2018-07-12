@@ -1,0 +1,89 @@
+Train Set = 10000
+Test Set = 10000
+
+>> run_knn
+
+pca_time =
+
+    0.2536
+
+
+mda_time =
+
+  459.2057
+
+
+knn_time =
+
+   2.6643e+03
+
+
+knn_pca_time =
+
+  600.9798
+
+
+knn_mda_time =
+
+   2.6634e+03
+
+
+knn_error =
+
+    0.0537
+
+
+knn_pca_error =
+
+    0.0582
+
+
+knn_mda_error =
+
+    0.4852
+
+Train Set = 20000
+Test Set = 10000
+
+>> run_knn
+
+pca_time =
+
+    0.5839
+
+
+mda_time =
+
+   2.2768e+03
+
+
+knn_time =
+
+   5.6310e+03
+
+
+knn_pca_time =
+
+   2.3573e+03
+
+
+knn_mda_time =
+
+   8.0658e+03
+
+
+knn_error =
+
+    0.0443
+
+
+knn_pca_error =
+
+    0.0490
+
+
+knn_mda_error =
+
+    0.6645
+
+>> 

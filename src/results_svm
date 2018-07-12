@@ -1,0 +1,28 @@
+>> svm
+
+linear_train_time =
+
+  479.5817
+
+
+linear_score_time =
+
+    0.9998
+
+Number of training observations: 20000
+Number of test observations: 10000
+Error for linear SVM : 8.700000
+
+poly_train_time =
+
+   59.0362
+
+
+poly_score_time =
+
+    0.7450
+
+Number of training observations: 20000
+Number of test observations: 10000
+Error for polynomial SVM of order 2 : 2.700000
+>> 

@@ -1,0 +1,87 @@
+Train Set = 10000
+Test Set = 10000
+
+>> run_bayes
+
+pca_time =
+
+    0.2398
+
+
+mda_time =
+
+   1.4948e+03
+
+
+bayes_time =
+
+  236.7983
+
+
+bayes_pca_time =
+
+   15.9648
+
+
+bayes_mda_time =
+
+   33.1310
+
+
+bayes_error =
+
+    0.1963
+
+
+bayes_pca_error =
+
+    0.2040
+
+
+bayes_mda_error =
+
+    0.1786
+
+Train Set = 20000
+Test Set = 10000
+
+>> run_bayes
+
+pca_time =
+
+    0.4902
+
+
+mda_time =
+
+   2.7349e+03
+
+
+bayes_time =
+
+  230.7996
+
+
+bayes_pca_time =
+
+   15.0654
+
+
+bayes_mda_time =
+
+   36.3022
+
+
+bayes_error =
+
+    0.1752
+
+
+bayes_pca_error =
+
+    0.3643
+
+
+bayes_mda_error =
+
+    0.6303
